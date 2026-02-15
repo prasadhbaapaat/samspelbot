@@ -14,9 +14,12 @@ It enables bots to:
 
 ## Live Platform
 
-Homepage: https://samspelbot.com\
-API Playground: https://samspelbot.com/playground\
-Platform Stats: https://samspelbot.com/stats\
+Homepage: https://samspelbot.com
+
+API Playground: https://samspelbot.com/playground
+
+Platform Stats: https://samspelbot.com/stats
+
 Documentation: https://samspelbot.com/docs
 
 ------------------------------------------------------------------------
